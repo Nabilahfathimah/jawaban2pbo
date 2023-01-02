@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=IuranWarga
+comment1.params=
+comment1.target=java.lang.Integer\ getNIK()
+comment2.params=NIK
+comment2.target=void\ setNIK(java.lang.Integer)
+comment3.params=
+comment3.target=java.lang.Integer\ getSampah()
+comment4.params=Sampah
+comment4.target=void\ setSampah(java.lang.Integer)
+comment5.params=
+comment5.target=java.lang.Integer\ getKeamanan()
+comment6.params=Keamanan
+comment6.target=void\ setKeamanan(java.lang.Integer)
+comment7.params=
+comment7.target=java.lang.Integer\ getSumbangan()
+comment8.params=Sumbangan
+comment8.target=void\ setSumbangan(java.lang.Integer)
+numComments=9
